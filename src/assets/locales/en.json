@@ -3,7 +3,7 @@
     "description": "Duck Movies is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "Duck Movies does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by Duck Movies, everything is through this searching mechanism.",
+      "body": "Duck Movies is a fork of an open source Movie Piracy site(movie-web.app). That movie piracy site was shut down as of a few months ago due to legal issues, so I forked the repository on GitHub and created this. I did not create this website, I only changed the branding a bit for fun. All attributions and credits have been kept in.",
       "title": "Where does the content come from?"
     },
     "q2": {
